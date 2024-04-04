@@ -11,7 +11,7 @@ export default function Navigation() {
           Home
         </Link>
         <Link to="/pizzas" className="text-white ms-3 text-decoration-none">
-          Pizzas
+          Contacto
         </Link>
       </Container>
     </Navbar>
