@@ -10,7 +10,7 @@ export default function Navigation() {
         <Link to="/" className="text-white ms-3 text-decoration-none">
           Home
         </Link>
-        <Link to="/pizzas" className="text-white ms-3 text-decoration-none">
+        <Link to="/formulario" className="text-white ms-3 text-decoration-none">
           Contacto
         </Link>
       </Container>
